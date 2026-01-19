@@ -9,7 +9,7 @@ links:
   - label: Email
     url: "mailto:email@example.com"
 output:
-  postcards::trestles
+  postcards::jolla
 ---
  
 ## Bio
@@ -20,10 +20,10 @@ This is a sample postcard site created with the postcards R package.
 
 **University Name** | City, State
 
-B.S. in Subject | Year - Year
+B.S. in Computer Science | 1234 - 4321
 
 ## Experience
 
-**Company Name** | Position | Year - Year
+**Company Name** | Tester | 1234 - 4321
 
-Description of role and responsibilities.
+blah blah blah abcdef.
