@@ -8,29 +8,13 @@ This repository contains a template for building a single-page personal website 
 
 ## Getting Started
 
-### Prerequisites
 
-- R (version 4.0.0 or higher)
-- RStudio (optional, but recommended)
-- The following R packages:
-  - `rmarkdown`
-  - `postcards`
-
-### Local Development
+### Development Right on Github
 
 1. For our class, accept the classroom project.  (If someone else wants to use this, fork or clone the project).
-2. Open `postcards.Rproj` in RStudio (or open the directory in your preferred R environment)
-3. Install required packages:
-   ```r
-   install.packages(c('rmarkdown', 'postcards'))
-   ```
-4. Edit `index.Rmd` with your personal information
-5. (Optional) Add a `profile.jpg` image to the root directory
-6. Render the site:
-   ```r
-   rmarkdown::render('index.Rmd')
-   ```
-7. Open `index.html` in your browser to preview
+2. Working right on Github, edit `index.Rmd` with your personal information. Commit your changes (green button, top right, write a short message).
+3. (Optional) Add a `profile.jpg` image to the root directory
+4. Wait while Github works on rendering your site.  You can see this by going to the "Actions" tab. 
 
 ## Customization
 
